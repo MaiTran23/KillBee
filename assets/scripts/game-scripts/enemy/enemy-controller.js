@@ -23,7 +23,7 @@ cc.Class({
             detail: {
                 point: self.point,
                 position: position,
-                enemyID: self.enemyID,
+                
             }
         });
     },
